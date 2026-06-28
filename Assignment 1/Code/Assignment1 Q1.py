@@ -1,5 +1,5 @@
-name = "Anas Ammar" #name as variable as it is used for name
-age = 20
+name = "Khizar Romaan" #name as variable as it is used for name
+age = 18
 height = 1.76
 is_student = True #is_student as variable as it is used for bool value and we mostly use is/has for bool variable
 
